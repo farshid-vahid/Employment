@@ -1,1 +1,1 @@
-All programs are kept in this folder.
+All programs will be added to this folder.
